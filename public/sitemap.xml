@@ -2,64 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://fluxtaposed.com/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fluxtaposed.com/posts/new-style/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fluxtaposed.com/posts/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fluxtaposed.com/posts/invincible/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/invincible/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cancer/</loc>
+    <loc>https://fluxtaposed.com/posts/cancer/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/robot-power/</loc>
+    <loc>https://fluxtaposed.com/posts/robot-power/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/switched/</loc>
+    <loc>https://fluxtaposed.com/posts/switched/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/blog-challenge-music-questions/</loc>
+    <loc>https://fluxtaposed.com/posts/blog-challenge-music-questions/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/realities/</loc>
+    <loc>https://fluxtaposed.com/posts/realities/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/echoes/</loc>
+    <loc>https://fluxtaposed.com/posts/echoes/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/is-this-thing-on/</loc>
+    <loc>https://fluxtaposed.com/posts/is-this-thing-on/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i-m-so-tired/</loc>
+    <loc>https://fluxtaposed.com/posts/i-m-so-tired/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/it-s-been-a-bit/</loc>
+    <loc>https://fluxtaposed.com/posts/it-s-been-a-bit/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the-end-of-an-era/</loc>
+    <loc>https://fluxtaposed.com/posts/the-end-of-an-era/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/one-more-time/</loc>
+    <loc>https://fluxtaposed.com/posts/one-more-time/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dark-forces/</loc>
+    <loc>https://fluxtaposed.com/posts/dark-forces/</loc>
     <lastmod>2024-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/journeys-end/</loc>
+    <loc>https://fluxtaposed.com/posts/journeys-end/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/migrating/</loc>
+    <loc>https://fluxtaposed.com/posts/migrating/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/exploring/</loc>
+    <loc>https://fluxtaposed.com/posts/exploring/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://fluxtaposed.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://fluxtaposed.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://fluxtaposed.com/tags/</loc>
   </url>
 </urlset>

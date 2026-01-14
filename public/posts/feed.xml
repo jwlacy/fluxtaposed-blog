@@ -2,122 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hey Fluxay!</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://fluxtaposed.com/posts/</link>
     <description>Recent content in Posts on Hey Fluxay!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fluxtaposed.com/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Style</title>
+      <link>https://fluxtaposed.com/posts/new-style/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://fluxtaposed.com/posts/new-style/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m in the mood for eliminating subscriptions I don&amp;rsquo;t need this year.&lt;/p&gt;&#xA;&lt;p&gt;I haven&amp;rsquo;t had my own personal laptop in years, so I migrated to a MacBook Air just before EoY. I love it. Haven&amp;rsquo;t had one since 2007-2008 and I like getting familiar with the ecosystem again. Plus, the sync between mobile and the laptop are amazing.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve hosted this blog via pika-page since sunsetting the podcast, and I have zero complaints with their service. I just wanted $6/month back.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Invincible</title>
-      <link>http://localhost:1313/posts/invincible/</link>
+      <link>https://fluxtaposed.com/posts/invincible/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/invincible/</guid>
+      <guid>https://fluxtaposed.com/posts/invincible/</guid>
       <description>&lt;p&gt;We grow up looking at our parents like they are invincible. At least that was me and my view of my dad.&lt;/p&gt;&#xA;&lt;p&gt;They will always have the answers. (Still wild to become a parent yourself and realise we just wing it half the time)&lt;/p&gt;&#xA;&lt;p&gt;They will always be there.&lt;/p&gt;&#xA;&lt;p&gt;That’s been the hardest part of these last few days. Watching him reduced to a shell of himself. Drained of energy, but at least not suffering. He’s too weak to continue chemotherapy at this time. Hopefully, the infusions and treatments will get him on the right path so we can discuss a long-term plan once again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cancer</title>
-      <link>http://localhost:1313/posts/cancer/</link>
+      <link>https://fluxtaposed.com/posts/cancer/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cancer/</guid>
+      <guid>https://fluxtaposed.com/posts/cancer/</guid>
       <description>&lt;p&gt;Fuck cancer.&lt;/p&gt;&#xA;&lt;p&gt;That is all.&lt;/p&gt;&#xA;&lt;p&gt;Sincerely, &lt;/p&gt;&#xA;&lt;p&gt;Me&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robot Power</title>
-      <link>http://localhost:1313/posts/robot-power/</link>
+      <link>https://fluxtaposed.com/posts/robot-power/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/robot-power/</guid>
+      <guid>https://fluxtaposed.com/posts/robot-power/</guid>
       <description>&lt;p&gt;I’ve wanted to write about this for a while, but at the same time, apprehensive about sharing it.&lt;/p&gt;&#xA;&lt;p&gt;I know, I know, these are my thoughts and my opinions. Who cares what anyone else thinks!?&lt;/p&gt;&#xA;&lt;p&gt;While I’ve been using the fediverse (Mastodon) for not nearly as long as others, I’ve been able to pick up on a general theme. AI is shit, and I’m supposed to hate it. Or am I making an over-generalisation here? I am building workflows with it daily in my professional work, and it’s powerful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Switched</title>
-      <link>http://localhost:1313/posts/switched/</link>
+      <link>https://fluxtaposed.com/posts/switched/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/switched/</guid>
+      <guid>https://fluxtaposed.com/posts/switched/</guid>
       <description>&lt;p&gt;Boy, what a couple of weeks it has been. Life moves at only one speed, too fast.&lt;/p&gt;&#xA;&lt;p&gt;After what was personally a taxing week a few weeks ago, FINALLY, the much-awaited Nintendo Switch 2 Direct took place! Nintendo revealed the actual console, some details at how it runs, and a look at some of the games coming out. No mention of the price but we did get a release date of June 5th.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog Challenge: Music Questions</title>
-      <link>http://localhost:1313/posts/blog-challenge-music-questions/</link>
+      <link>https://fluxtaposed.com/posts/blog-challenge-music-questions/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blog-challenge-music-questions/</guid>
+      <guid>https://fluxtaposed.com/posts/blog-challenge-music-questions/</guid>
       <description>&lt;p&gt;Yep… It happened. I got tagged in one of the various blog challenges! How dare &lt;a href=&#34;https://cool-as-heck.blog/&#34;&gt;Jason&lt;/a&gt; force me to actually write something here!&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-are-five-of-your-favourite-albums&#34;&gt;What are five of your favourite albums?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mae - The Everglow&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;They say music can be a connection to a certain point in our lives. Discovered the album and artist during my early 20’s during my first time living on my own in my first apartment. Just really connected to the emotions. Saw them perform in concert too which just made it extra special. Total emo vibes bro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Realities</title>
-      <link>http://localhost:1313/posts/realities/</link>
+      <link>https://fluxtaposed.com/posts/realities/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/realities/</guid>
+      <guid>https://fluxtaposed.com/posts/realities/</guid>
       <description>&lt;p&gt;My book holds got away from me…&lt;/p&gt;&#xA;&lt;p&gt;I had two books due back in under 6 days, with still hundreds of pages to read in the first one.&lt;/p&gt;&#xA;&lt;p&gt;As of yesterday, both books are finished! “Project Hail Mary” was up first. My first read by the author but very familiar with his work. It had a very intriguing setup but then felt a tad cliche yet safe if that makes sense. It was still an enjoyable read but it left me wanting just a little bit more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Echoes</title>
-      <link>http://localhost:1313/posts/echoes/</link>
+      <link>https://fluxtaposed.com/posts/echoes/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/echoes/</guid>
+      <guid>https://fluxtaposed.com/posts/echoes/</guid>
       <description>&lt;p&gt;I’m still waiting for a spark of motivation or creativity to really drive and inspire these pages. I did carve a pumpkin though….&lt;/p&gt;&#xA;&lt;p&gt;I don’t play games nearly as often as I would like, but that has been a disguised blessing. I’m *eager *for news on the sequel to the Nintendo Switch. That little hybrid console has let me enjoy hours of games whether in front of a TV or not and it has been that flexibility that has made all of the difference. With reading being my primary hobby as of late, there have been tons of games coming out that I can enjoy at my leisure and digest slowly over time. All the hype for Xenoblade Chronicles X DE next year only reminds me that I need to get back to Xenoblade Chronicles 3! See where I’m going with this?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is This Thing On?</title>
-      <link>http://localhost:1313/posts/is-this-thing-on/</link>
+      <link>https://fluxtaposed.com/posts/is-this-thing-on/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/is-this-thing-on/</guid>
+      <guid>https://fluxtaposed.com/posts/is-this-thing-on/</guid>
       <description>&lt;p&gt;Boy, you blink and time has just slipped thru your fingertips…&lt;/p&gt;&#xA;&lt;p&gt;I haven’t had many things to say that I would deem “blog worthy”, which is probably what has kept me from posting here on a regular basis. What have I been doing? Devouring books. I’m on pace to shatter my goal of reading 30 for the year and will likely try for 40 in 2025. I’m also part of a Bookwyrm book club which has been to have a shared experience with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I&#39;m So Tired!</title>
-      <link>http://localhost:1313/posts/i-m-so-tired/</link>
+      <link>https://fluxtaposed.com/posts/i-m-so-tired/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/i-m-so-tired/</guid>
+      <guid>https://fluxtaposed.com/posts/i-m-so-tired/</guid>
       <description>&lt;p&gt;Daylight Saving is the absolute worst.&lt;/p&gt;&#xA;&lt;p&gt;Just ask any parent ever.&lt;/p&gt;</description>
     </item>
     <item>
       <title>It&#39;s Been a Bit...</title>
-      <link>http://localhost:1313/posts/it-s-been-a-bit/</link>
+      <link>https://fluxtaposed.com/posts/it-s-been-a-bit/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/it-s-been-a-bit/</guid>
+      <guid>https://fluxtaposed.com/posts/it-s-been-a-bit/</guid>
       <description>&lt;p&gt;Haven’t had much to voice over the past few days.&lt;/p&gt;&#xA;&lt;p&gt;Works been busy, had a mini vacation that work interrupted too much, and been trying to enjoy the nice weather we’ve had here in Michigan.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Facts:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Running outside is so much nicer than the treadmill.&lt;/p&gt;&#xA;&lt;p&gt;I almost hit 6 miles on Sunday and it was awesome. I love being able to get lost in the journey, digest a podcast, and the whole experience feels effortless. Forgot to calibrate my watch though…. Want to try to get my pace down a bit, I’m targeting sub 10 min/mile for now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The End of an Era</title>
-      <link>http://localhost:1313/posts/the-end-of-an-era/</link>
+      <link>https://fluxtaposed.com/posts/the-end-of-an-era/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-end-of-an-era/</guid>
+      <guid>https://fluxtaposed.com/posts/the-end-of-an-era/</guid>
       <description>&lt;p&gt;Last night, we streamed and recorded the final episode of our long-running podcast, “What the Fluxtaposed.”&lt;/p&gt;&#xA;&lt;p&gt;Ten years of memories, bad jokes, and really….fun. We stayed true to our form this entire time, and I’m happy with the end results. Time to take a break from content creation for a bit and clear my head. Somewhere down the road, I might just have to dip my toes in again with a side project or two.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One More Time</title>
-      <link>http://localhost:1313/posts/one-more-time/</link>
+      <link>https://fluxtaposed.com/posts/one-more-time/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/one-more-time/</guid>
+      <guid>https://fluxtaposed.com/posts/one-more-time/</guid>
       <description>&lt;p&gt;Join us Monday, 2/12/2024, one last time for the **FINAL **episode of &amp;ldquo;What the Fluxtaposed!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Streaming **LIVE **over at &lt;a href=&#34;https://www.twitch.tv/fluxtaposed&#34;&gt;https://www.twitch.tv/fluxtaposed&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Tell all your friends, and we will see you at 8:30pm EST.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FGBhQbmPwH8&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dark Forces</title>
-      <link>http://localhost:1313/posts/dark-forces/</link>
+      <link>https://fluxtaposed.com/posts/dark-forces/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dark-forces/</guid>
+      <guid>https://fluxtaposed.com/posts/dark-forces/</guid>
       <description>&lt;p&gt;I have a high level of dumb excitement for the upcoming release of &lt;a href=&#34;https://store.steampowered.com/app/2292260/STAR_WARS_Dark_Forces_Remaster/&#34;&gt;THIS&lt;/a&gt; remaster of Dark Forces:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4b9TTurkH4c&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A long time ago, in a shopping mall far, far away….&lt;/p&gt;&#xA;&lt;p&gt;I remember walking into a store like this:&lt;/p&gt;&#xA;&lt;p&gt;Starting at row upon row of PC boxes, wishing they could be mine. There was now e-commerce yet, you went to a brick and mortar store and actually bought the physical goods you wanted (I’ve since then have very much embraced our digital overlords). Could I but this game? No. I had no money and on top of that, we had a Mac at home when I was kid. Why wouldn’t this work for us? It’s a “personal computer”, what’s the difference?? To be honest, I don’t know why it was so hard to find a Mac copy, but I eventually did, and I loved it!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Journeys End</title>
-      <link>http://localhost:1313/posts/journeys-end/</link>
+      <link>https://fluxtaposed.com/posts/journeys-end/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/journeys-end/</guid>
+      <guid>https://fluxtaposed.com/posts/journeys-end/</guid>
       <description>&lt;p&gt;This is a post, I never thought I would make&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Announcing the end of a 9+ year journey, the conclusion of &amp;ldquo;What the Fluxtaposed.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Lucas and I set out to share our friendship and opinions on games and over time it evolved into so much more. Thank you for allowing us to share our lives with you all this time. I&amp;rsquo;m happy that we always remained true to ourselves and never chased trends or modified our content to better fit into what would have been popular. Our show always remained true to itself, weird.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrating!</title>
-      <link>http://localhost:1313/posts/migrating/</link>
+      <link>https://fluxtaposed.com/posts/migrating/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/migrating/</guid>
+      <guid>https://fluxtaposed.com/posts/migrating/</guid>
       <description>&lt;p&gt;I’m doing it!&lt;/p&gt;&#xA;&lt;p&gt;My squarespace site has been taken down and I’m in the process of redirecting my URL’s.&lt;/p&gt;&#xA;&lt;p&gt;Soon this page will be the new home for fluxtaposed.com.&lt;/p&gt;&#xA;&lt;p&gt;Phew!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring</title>
-      <link>http://localhost:1313/posts/exploring/</link>
+      <link>https://fluxtaposed.com/posts/exploring/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/exploring/</guid>
+      <guid>https://fluxtaposed.com/posts/exploring/</guid>
       <description>&lt;p&gt;Hello!&lt;/p&gt;&#xA;&lt;p&gt;I had been toying around with the idea of just a simple blog page again for quite some time. Oddly enough, it was one of the first things I did back with Blogspot in my earlier days, so a bit nostalgic to reconnect again.&lt;/p&gt;&#xA;&lt;p&gt;I want to get excited again about creative life after podcasting, and this is my avenue for exploring that.&lt;/p&gt;&#xA;&lt;p&gt;More to come or maybe not, time will only tell.&lt;/p&gt;</description>
     </item>
   </channel>
