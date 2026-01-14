@@ -1,0 +1,21 @@
+baseURL = 'https://fluxtaposed.com/'
+languageCode = 'en-us'
+title = 'Hey Fluxay!'
+theme = ''
+
+[params]
+  tagline = "A collection of thoughts shared by me, to you. Enjoy."
+  established = "2024"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss+xml"
+    baseName = "feed"

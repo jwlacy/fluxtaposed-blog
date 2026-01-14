@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="post-list">
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range $posts.GroupByDate "2006" }}
+  <div class="year-group">
+    <div class="year-label">// {{ .Key }}</div>
+    {{ range .Pages }}
+    <div class="post-item">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span class="post-date">{{ .Date.Format "Jan 2" }}</span>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

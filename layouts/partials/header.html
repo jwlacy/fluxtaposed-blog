@@ -1,0 +1,14 @@
+<header class="site-header">
+  <h1 class="site-title"><a href="/">{{ .Site.Title }}</a></h1>
+  <div class="avatar">
+    <img src="/images/avatar.png" alt="Fluxay">
+  </div>
+  <nav class="site-nav">
+    <a href="/posts/">blog</a>
+    <a href="/contact/">contact</a>
+  </nav>
+  {{ if .IsHome }}
+  <p class="tagline">{{ .Site.Params.tagline }}</p>
+  <p class="established">// established {{ .Site.Params.established }}</p>
+  {{ end }}
+</header>
