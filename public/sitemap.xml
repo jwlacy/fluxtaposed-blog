@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/testing/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/invincible/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>

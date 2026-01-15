@@ -86,8 +86,18 @@ body::before {
   text-shadow: var(--glow-cyan);
 }
 
+/* Avatar with pulse */
 .avatar {
   margin: 1.25rem 0;
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 10px #05d9e8, 0 0 20px #05d9e840;
+  }
+  50% {
+    box-shadow: 0 0 15px #05d9e8, 0 0 30px #05d9e860, 0 0 40px #05d9e830;
+  }
 }
 
 .avatar img {
@@ -95,13 +105,13 @@ body::before {
   height: 120px;
   border-radius: 50%;
   border: 3px solid var(--neon-cyan);
-  box-shadow: var(--glow-cyan);
-  transition: all 0.3s ease;
+  animation: pulse-glow 3s ease-in-out infinite;
 }
 
 .avatar img:hover {
+  animation: none;
   border-color: var(--neon-pink);
-  box-shadow: var(--glow-pink);
+  box-shadow: 0 0 15px #ff2a6d, 0 0 30px #ff2a6d60;
 }
 
 .site-nav {
@@ -364,6 +374,17 @@ body::before {
 
 .page-content a:hover {
   text-shadow: var(--glow-cyan);
+}
+
+/* Selection color */
+::selection {
+  background: var(--neon-pink);
+  color: var(--bg-dark);
+}
+
+::-moz-selection {
+  background: var(--neon-pink);
+  color: var(--bg-dark);
 }
 
 /* Responsive */

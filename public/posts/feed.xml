@@ -16,6 +16,13 @@
       <description>&lt;p&gt;I&amp;rsquo;m in the mood for eliminating subscriptions I don&amp;rsquo;t need this year.&lt;/p&gt;&#xA;&lt;p&gt;I haven&amp;rsquo;t had my own personal laptop in years, so I migrated to a MacBook Air just before EoY. I love it. Haven&amp;rsquo;t had one since 2007-2008 and I like getting familiar with the ecosystem again. Plus, the sync between mobile and the laptop are amazing.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve hosted this blog via pika-page since sunsetting the podcast, and I have zero complaints with their service. I just wanted $6/month back.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/posts/testing/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/testing/</guid>
+      <description>&lt;p&gt;I just pushed some new functionality that will auto-generate random post text on Masto (from a selection set I created) to share these new posts.&lt;/p&gt;&#xA;&lt;p&gt;I needed an excuse to test it.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Invincible</title>
       <link>http://localhost:1313/posts/invincible/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
