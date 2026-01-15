@@ -1,0 +1,76 @@
+name: Post to Mastodon
+
+on:
+  push:
+    paths:
+      - 'content/posts/**.md'
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      
+      - name: Check for new posts and toot
+        env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          MASTODON_INSTANCE: https://retro.pizza
+        run: |
+          # Get newly added posts
+          NEW_POSTS=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'content/posts/*.md' || echo "")
+          
+          if [ -z "$NEW_POSTS" ]; then
+            echo "No new posts detected"
+            exit 0
+          fi
+          
+          # Templates array
+          TEMPLATES=(
+            "New post just dropped: TITLE - URL"
+            "Fresh thoughts on the blog: TITLE 👉 URL"
+            "I wrote a thing: TITLE URL"
+            "New on Fluxtaposed: TITLE - check it out! URL"
+            "Blog update! TITLE URL 🎮"
+            "*taps mic* New post: TITLE URL"
+            "Just hit publish on: TITLE - URL"
+            "New words from me: TITLE URL ✨"
+            "Posted something new: TITLE - URL"
+            "Hey look, I wrote: TITLE URL"
+            "The blog has been updated: TITLE - URL"
+            "Go read this: TITLE 👀 URL"
+          )
+          
+          for POST in $NEW_POSTS; do
+            echo "Processing: $POST"
+            
+            # Extract title from front matter
+            TITLE=$(grep -m1 '^title:' "$POST" | sed 's/title: *"//' | sed 's/"$//')
+            
+            # Get slug from filename
+            SLUG=$(basename "$POST" .md)
+            URL="https://fluxtaposed.com/posts/${SLUG}/"
+            
+            # Check for custom mastodon_text in front matter
+            CUSTOM_TEXT=$(grep -m1 '^mastodon_text:' "$POST" | sed 's/mastodon_text: *"//' | sed 's/"$//' || echo "")
+            
+            if [ -n "$CUSTOM_TEXT" ]; then
+              MESSAGE="$CUSTOM_TEXT"
+            else
+              # Pick random template
+              RANDOM_INDEX=$((RANDOM % ${#TEMPLATES[@]}))
+              TEMPLATE="${TEMPLATES[$RANDOM_INDEX]}"
+              MESSAGE=$(echo "$TEMPLATE" | sed "s|TITLE|$TITLE|g" | sed "s|URL|$URL|g")
+            fi
+            
+            echo "Posting: $MESSAGE"
+            
+            # Post to Mastodon
+            curl -s -X POST \
+              -H "Authorization: Bearer $MASTODON_ACCESS_TOKEN" \
+              -F "status=$MESSAGE" \
+              "$MASTODON_INSTANCE/api/v1/statuses"
+            
+            echo "Posted!"
+          done
