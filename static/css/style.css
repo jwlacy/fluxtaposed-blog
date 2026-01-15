@@ -483,3 +483,8 @@ body::after {
   color: var(--bg-dark);
   box-shadow: var(--glow-cyan);
 }
+
+/* Fix overscroll background */
+html {
+  background: var(--bg-dark);
+}
