@@ -8,7 +8,7 @@
     <a href="/contact/">contact</a>
   </nav>
   {{ if .IsHome }}
-  <p class="tagline">{{ .Site.Params.tagline }}</p>
+  <p class="tagline" id="tagline">{{ .Site.Params.tagline }}</p>
   <p class="established">// established {{ .Site.Params.established }}</p>
   {{ end }}
 </header>

@@ -41,3 +41,24 @@ function activateEasterEgg() {
     alert('🎮 +30 Lives! You found the secret!');
   }, 500);
 }
+
+// Random taglines
+const taglines = [
+  "A collection of thoughts shared by me, to you. Enjoy.",
+  "Transmissions from the void.",
+  "Now with 80% more neon.",
+  "Broadcast from the retro future.",
+  "Loading human thoughts...",
+  "Powered by caffeine and nostalgia.",
+  "Insert coin to continue.",
+  "Press start to begin.",
+  "Synthwave state of mind.",
+  "Logged in from the grid."
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+  const taglineEl = document.getElementById('tagline');
+  if (taglineEl) {
+    taglineEl.textContent = taglines[Math.floor(Math.random() * taglines.length)];
+  }
+});
