@@ -5,8 +5,6 @@ slug = "the-long-way-back"
 tags = ["life", "work", "layoff"]
 +++
 
-# The Long Way Back
-
 December 2025, a week before Christmas, I was laid off. From a company I helped grow for 10 years.
 
 I remember sitting there, processing what was happening, and thinking... ten years. Ten years of showing up. Ten years of adapting, of learning new things I didn't sign up for, of caring more than I probably should have. And it ended on a Friday, a week before Christmas, on ugly sweater day, in a one on one meeting I didn't schedule.
