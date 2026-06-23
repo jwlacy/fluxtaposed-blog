@@ -1,5 +1,5 @@
 ---
-title: "Something I Always Wanted to Try at Home"
+title: "Espresso"
 date: 2026-06-22
 draft: false
 ---
